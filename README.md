@@ -11,7 +11,7 @@
 
 <p align="center">
 <img title="Autor" src="https://img.shields.io/badge/Autor-FERNANDO-MODZ-orange.svg?style=for-the-badge&logo=github"></a>
-<img title="Vers茫o" src="https://img.shields.io/badge/Vers茫o-4.0-orange.svg?style=for-the-badge&logo=github"></a>
+<img title="Versão" src="https://img.shields.io/badge/Vers茫o-4.0-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 INSTALAÇÃO TERMUX 
@@ -26,19 +26,26 @@ __________________
 ```
 termux-setup-storage
 ```
+
 🌈3° COMANDO🌈
 ```
+
 cd /sdcard/
 ```
+
 🌈4° COMANDO🌈
 ```
+
 git clone https://github.com/andrenascime/uzaki-bot.git
 ```
+
 🌈5° COMANDO🌈
 ```
 cd /sdcard/uzaki-bot
 ```
+
 # PARA INICIAR O BOT 
 ```
+
 sh start.sh
 ```
