@@ -29,13 +29,11 @@ termux-setup-storage
 
 🌈3° COMANDO🌈
 ```
-
 cd /sdcard/
 ```
 
 🌈4° COMANDO🌈
 ```
-
 git clone https://github.com/andrenascime/uzaki-bot.git
 ```
 
@@ -46,6 +44,5 @@ cd /sdcard/uzaki-bot
 
 # PARA INICIAR O BOT 
 ```
-
 sh start.sh
 ```
